@@ -1,0 +1,13 @@
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.exe
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.deps.json
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.json
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.dev.json
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.dll
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.pdb
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csprojAssemblyReference.cache
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfoInputs.cache
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfo.cs
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csproj.CoreCompileInputs.cache
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.dll
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.pdb
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.genruntimeconfig.cache

@@ -16,7 +16,7 @@ namespace Donguler
             Console.WriteLine(kurs2);
             Console.WriteLine(kurs3);
             Console.WriteLine(kurs4);
-            Console.WriteLine(kurs5);
+         
 
             //array - dizi
 
