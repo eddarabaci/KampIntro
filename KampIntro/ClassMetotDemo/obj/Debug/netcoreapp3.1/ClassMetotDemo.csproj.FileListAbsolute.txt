@@ -1,0 +1,12 @@
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.exe
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.deps.json
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.runtimeconfig.json
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.runtimeconfig.dev.json
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.dll
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.pdb
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.AssemblyInfoInputs.cache
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.AssemblyInfo.cs
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.csproj.CoreCompileInputs.cache
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.dll
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.pdb
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.genruntimeconfig.cache
