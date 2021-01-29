@@ -1,0 +1,13 @@
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.exe
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.deps.json
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.json
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.dev.json
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.dll
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.pdb
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csprojAssemblyReference.cache
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfoInputs.cache
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfo.cs
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csproj.CoreCompileInputs.cache
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.dll
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.pdb
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.genruntimeconfig.cache

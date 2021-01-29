@@ -1,0 +1,13 @@
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.exe
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.deps.json
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.runtimeconfig.json
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.runtimeconfig.dev.json
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.dll
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.pdb
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.csprojAssemblyReference.cache
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.AssemblyInfoInputs.cache
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.AssemblyInfo.cs
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.csproj.CoreCompileInputs.cache
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.dll
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.pdb
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.genruntimeconfig.cache

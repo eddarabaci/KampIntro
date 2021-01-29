@@ -1,0 +1,13 @@
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\OOP1\bin\Debug\netcoreapp3.1\OOP1.exe
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\OOP1\bin\Debug\netcoreapp3.1\OOP1.deps.json
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\OOP1\bin\Debug\netcoreapp3.1\OOP1.runtimeconfig.json
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\OOP1\bin\Debug\netcoreapp3.1\OOP1.runtimeconfig.dev.json
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\OOP1\bin\Debug\netcoreapp3.1\OOP1.dll
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\OOP1\bin\Debug\netcoreapp3.1\OOP1.pdb
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\OOP1\obj\Debug\netcoreapp3.1\OOP1.csprojAssemblyReference.cache
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\OOP1\obj\Debug\netcoreapp3.1\OOP1.AssemblyInfoInputs.cache
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\OOP1\obj\Debug\netcoreapp3.1\OOP1.AssemblyInfo.cs
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\OOP1\obj\Debug\netcoreapp3.1\OOP1.csproj.CoreCompileInputs.cache
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\OOP1\obj\Debug\netcoreapp3.1\OOP1.dll
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\OOP1\obj\Debug\netcoreapp3.1\OOP1.pdb
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\OOP1\obj\Debug\netcoreapp3.1\OOP1.genruntimeconfig.cache
