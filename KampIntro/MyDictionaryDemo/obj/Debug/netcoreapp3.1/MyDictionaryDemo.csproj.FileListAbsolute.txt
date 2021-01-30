@@ -1,0 +1,12 @@
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\MyDictionaryDemo\bin\Debug\netcoreapp3.1\MyDictionaryDemo.exe
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\MyDictionaryDemo\bin\Debug\netcoreapp3.1\MyDictionaryDemo.deps.json
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\MyDictionaryDemo\bin\Debug\netcoreapp3.1\MyDictionaryDemo.runtimeconfig.json
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\MyDictionaryDemo\bin\Debug\netcoreapp3.1\MyDictionaryDemo.runtimeconfig.dev.json
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\MyDictionaryDemo\bin\Debug\netcoreapp3.1\MyDictionaryDemo.dll
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\MyDictionaryDemo\bin\Debug\netcoreapp3.1\MyDictionaryDemo.pdb
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\MyDictionaryDemo\obj\Debug\netcoreapp3.1\MyDictionaryDemo.AssemblyInfoInputs.cache
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\MyDictionaryDemo\obj\Debug\netcoreapp3.1\MyDictionaryDemo.AssemblyInfo.cs
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\MyDictionaryDemo\obj\Debug\netcoreapp3.1\MyDictionaryDemo.csproj.CoreCompileInputs.cache
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\MyDictionaryDemo\obj\Debug\netcoreapp3.1\MyDictionaryDemo.dll
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\MyDictionaryDemo\obj\Debug\netcoreapp3.1\MyDictionaryDemo.pdb
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\MyDictionaryDemo\obj\Debug\netcoreapp3.1\MyDictionaryDemo.genruntimeconfig.cache
