@@ -19,13 +19,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyon
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{6C262DB2-5903-45A2-AA50-48F2DF32BD55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsDemoBasic", "GenericsDemoBasic\GenericsDemoBasic.csproj", "{46AC1CE9-E0C1-46B9-893C-E9AF85EC6864}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsDemoBasic", "GenericsDemoBasic\GenericsDemoBasic.csproj", "{46AC1CE9-E0C1-46B9-893C-E9AF85EC6864}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionaryDemo", "MyDictionaryDemo\MyDictionaryDemo.csproj", "{8097DDA6-030F-4801-B353-908931615EBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDictionaryDemo", "MyDictionaryDemo\MyDictionaryDemo.csproj", "{8097DDA6-030F-4801-B353-908931615EBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oop2", "Oop2\Oop2.csproj", "{2A5EEBE1-775D-4977-8858-A631B69428BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oop2", "Oop2\Oop2.csproj", "{2A5EEBE1-775D-4977-8858-A631B69428BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{6CEE350F-0E88-42A2-87B2-4EB2CFD0F2D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{6CEE350F-0E88-42A2-87B2-4EB2CFD0F2D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DamaTahtasi", "DamaTahtasi\DamaTahtasi.csproj", "{8F28F44B-5E5B-46EE-823C-70DE31993391}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{6CEE350F-0E88-42A2-87B2-4EB2CFD0F2D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CEE350F-0E88-42A2-87B2-4EB2CFD0F2D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CEE350F-0E88-42A2-87B2-4EB2CFD0F2D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F28F44B-5E5B-46EE-823C-70DE31993391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F28F44B-5E5B-46EE-823C-70DE31993391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F28F44B-5E5B-46EE-823C-70DE31993391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F28F44B-5E5B-46EE-823C-70DE31993391}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

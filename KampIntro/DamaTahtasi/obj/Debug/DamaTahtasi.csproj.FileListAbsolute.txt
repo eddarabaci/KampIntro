@@ -1,0 +1,10 @@
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\DamaTahtasi\bin\Debug\DamaTahtasi.exe.config
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\DamaTahtasi\bin\Debug\DamaTahtasi.exe
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\DamaTahtasi\bin\Debug\DamaTahtasi.pdb
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\DamaTahtasi\obj\Debug\DamaTahtasi.csprojAssemblyReference.cache
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\DamaTahtasi\obj\Debug\DamaTahtasi.Form1.resources
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\DamaTahtasi\obj\Debug\DamaTahtasi.Properties.Resources.resources
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\DamaTahtasi\obj\Debug\DamaTahtasi.csproj.GenerateResource.cache
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\DamaTahtasi\obj\Debug\DamaTahtasi.csproj.CoreCompileInputs.cache
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\DamaTahtasi\obj\Debug\DamaTahtasi.exe
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\DamaTahtasi\obj\Debug\DamaTahtasi.pdb
