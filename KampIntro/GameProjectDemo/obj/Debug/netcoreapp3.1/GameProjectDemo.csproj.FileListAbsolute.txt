@@ -1,0 +1,13 @@
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\GameProjectDemo\bin\Debug\netcoreapp3.1\GameProjectDemo.exe
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\GameProjectDemo\bin\Debug\netcoreapp3.1\GameProjectDemo.deps.json
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\GameProjectDemo\bin\Debug\netcoreapp3.1\GameProjectDemo.runtimeconfig.json
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\GameProjectDemo\bin\Debug\netcoreapp3.1\GameProjectDemo.runtimeconfig.dev.json
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\GameProjectDemo\bin\Debug\netcoreapp3.1\GameProjectDemo.dll
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\GameProjectDemo\bin\Debug\netcoreapp3.1\GameProjectDemo.pdb
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\GameProjectDemo\obj\Debug\netcoreapp3.1\GameProjectDemo.csprojAssemblyReference.cache
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\GameProjectDemo\obj\Debug\netcoreapp3.1\GameProjectDemo.AssemblyInfoInputs.cache
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\GameProjectDemo\obj\Debug\netcoreapp3.1\GameProjectDemo.AssemblyInfo.cs
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\GameProjectDemo\obj\Debug\netcoreapp3.1\GameProjectDemo.csproj.CoreCompileInputs.cache
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\GameProjectDemo\obj\Debug\netcoreapp3.1\GameProjectDemo.dll
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\GameProjectDemo\obj\Debug\netcoreapp3.1\GameProjectDemo.pdb
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\GameProjectDemo\obj\Debug\netcoreapp3.1\GameProjectDemo.genruntimeconfig.cache

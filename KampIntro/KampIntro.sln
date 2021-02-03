@@ -29,6 +29,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DamaTahtasi", "DamaTahtasi\DamaTahtasi.csproj", "{8F28F44B-5E5B-46EE-823C-70DE31993391}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{8647352C-716D-45C1-88F5-C7D140CB606A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProjectDemo", "GameProjectDemo\GameProjectDemo.csproj", "{0BCB29D6-FF75-444D-9DDB-563DF226D343}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{8F28F44B-5E5B-46EE-823C-70DE31993391}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F28F44B-5E5B-46EE-823C-70DE31993391}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F28F44B-5E5B-46EE-823C-70DE31993391}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8647352C-716D-45C1-88F5-C7D140CB606A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8647352C-716D-45C1-88F5-C7D140CB606A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8647352C-716D-45C1-88F5-C7D140CB606A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8647352C-716D-45C1-88F5-C7D140CB606A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BCB29D6-FF75-444D-9DDB-563DF226D343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BCB29D6-FF75-444D-9DDB-563DF226D343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BCB29D6-FF75-444D-9DDB-563DF226D343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BCB29D6-FF75-444D-9DDB-563DF226D343}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
