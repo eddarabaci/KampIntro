@@ -19,7 +19,7 @@ namespace GameProjectDemo
 
             //Added GAMES
             Game game1 = new Game { Id = 1, GameId = 1010, GameName = "WeakCircle", GamePrice = 85.50 , GameType = "Strategy Game", UnitStock = 10 };
-            Game game2 = new Game { Id = 2, GameId = 1011, GameName = "Vengeance II", GamePrice = 150, GameType = "War Game" , UnitStock = 5 };
+            Game game2 = new Game { Id = 2, GameId = 1011, GameName = "Vengeance II", GamePrice = 150, GameType = "War Game" , UnitStock = 0 };
 
             GameManager gameManager = new GameManager();
             gameManager.AddGame(game1);
