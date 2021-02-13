@@ -31,7 +31,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DamaTahtasi", "DamaTahtasi\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{8647352C-716D-45C1-88F5-C7D140CB606A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProjectDemo", "GameProjectDemo\GameProjectDemo.csproj", "{0BCB29D6-FF75-444D-9DDB-563DF226D343}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameProjectDemo", "GameProjectDemo\GameProjectDemo.csproj", "{0BCB29D6-FF75-444D-9DDB-563DF226D343}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{4D4C9FBB-B34A-4ACC-8C11-716B9F3AF0CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{0BCB29D6-FF75-444D-9DDB-563DF226D343}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BCB29D6-FF75-444D-9DDB-563DF226D343}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BCB29D6-FF75-444D-9DDB-563DF226D343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D4C9FBB-B34A-4ACC-8C11-716B9F3AF0CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D4C9FBB-B34A-4ACC-8C11-716B9F3AF0CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D4C9FBB-B34A-4ACC-8C11-716B9F3AF0CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D4C9FBB-B34A-4ACC-8C11-716B9F3AF0CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

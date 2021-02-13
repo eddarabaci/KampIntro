@@ -1,0 +1,13 @@
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\LINQ\bin\Debug\netcoreapp3.1\LINQ.exe
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\LINQ\bin\Debug\netcoreapp3.1\LINQ.deps.json
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\LINQ\bin\Debug\netcoreapp3.1\LINQ.runtimeconfig.json
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\LINQ\bin\Debug\netcoreapp3.1\LINQ.runtimeconfig.dev.json
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\LINQ\bin\Debug\netcoreapp3.1\LINQ.dll
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\LINQ\bin\Debug\netcoreapp3.1\LINQ.pdb
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\LINQ\obj\Debug\netcoreapp3.1\LINQ.csprojAssemblyReference.cache
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\LINQ\obj\Debug\netcoreapp3.1\LINQ.AssemblyInfoInputs.cache
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\LINQ\obj\Debug\netcoreapp3.1\LINQ.AssemblyInfo.cs
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\LINQ\obj\Debug\netcoreapp3.1\LINQ.csproj.CoreCompileInputs.cache
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\LINQ\obj\Debug\netcoreapp3.1\LINQ.dll
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\LINQ\obj\Debug\netcoreapp3.1\LINQ.pdb
+D:\Documents\VisualStudioCommunityWorkSpace\KampIntro\LINQ\obj\Debug\netcoreapp3.1\LINQ.genruntimeconfig.cache
