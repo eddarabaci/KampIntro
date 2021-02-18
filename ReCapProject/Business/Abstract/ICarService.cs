@@ -14,7 +14,7 @@ namespace Business.Abstract
         List<Car> GetAllByColorId(int id);
 
         void Add(Car car);
-        void Delete();
+        void Delete(Car car);
         void Update();
     }
 }
