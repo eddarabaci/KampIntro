@@ -58,3 +58,5 @@ D:\Documents\VisualStudioCommunityWorkSpace\MyFinalProject\ConsoleUI\bin\Debug\n
 D:\Documents\VisualStudioCommunityWorkSpace\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Documents\VisualStudioCommunityWorkSpace\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Documents\VisualStudioCommunityWorkSpace\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\VisualStudioCommunityWorkSpace\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
+D:\Documents\VisualStudioCommunityWorkSpace\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb

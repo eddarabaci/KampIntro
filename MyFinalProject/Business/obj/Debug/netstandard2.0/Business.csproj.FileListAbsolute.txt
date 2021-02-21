@@ -12,3 +12,5 @@ D:\Documents\VisualStudioCommunityWorkSpace\MyFinalProject\Business\bin\Debug\ne
 D:\Documents\VisualStudioCommunityWorkSpace\MyFinalProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
 D:\Documents\VisualStudioCommunityWorkSpace\MyFinalProject\Business\obj\Debug\netstandard2.0\Business.dll
 D:\Documents\VisualStudioCommunityWorkSpace\MyFinalProject\Business\obj\Debug\netstandard2.0\Business.pdb
+D:\Documents\VisualStudioCommunityWorkSpace\MyFinalProject\Business\bin\Debug\netstandard2.0\Core.dll
+D:\Documents\VisualStudioCommunityWorkSpace\MyFinalProject\Business\bin\Debug\netstandard2.0\Core.pdb
