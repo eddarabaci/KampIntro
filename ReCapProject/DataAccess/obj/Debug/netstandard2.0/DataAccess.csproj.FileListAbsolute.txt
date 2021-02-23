@@ -10,3 +10,5 @@ D:\Documents\VisualStudioCommunityWorkSpace\ReCapProject\DataAccess\bin\Debug\ne
 D:\Documents\VisualStudioCommunityWorkSpace\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
 D:\Documents\VisualStudioCommunityWorkSpace\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
 D:\Documents\VisualStudioCommunityWorkSpace\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+D:\Documents\VisualStudioCommunityWorkSpace\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Core.dll
+D:\Documents\VisualStudioCommunityWorkSpace\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Core.pdb

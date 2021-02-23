@@ -12,3 +12,5 @@ D:\Documents\VisualStudioCommunityWorkSpace\ReCapProject\Business\bin\Debug\nets
 D:\Documents\VisualStudioCommunityWorkSpace\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
 D:\Documents\VisualStudioCommunityWorkSpace\ReCapProject\Business\obj\Debug\netstandard2.0\Business.dll
 D:\Documents\VisualStudioCommunityWorkSpace\ReCapProject\Business\obj\Debug\netstandard2.0\Business.pdb
+D:\Documents\VisualStudioCommunityWorkSpace\ReCapProject\Business\bin\Debug\netstandard2.0\Core.dll
+D:\Documents\VisualStudioCommunityWorkSpace\ReCapProject\Business\bin\Debug\netstandard2.0\Core.pdb

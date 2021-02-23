@@ -1,6 +1,7 @@
 ﻿using Business.Abstract;
 using DataAccess.Abstract;
 using Entities.Concrete;
+using Entities.DTOs;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -10,12 +11,6 @@ namespace Business.Concrete
     public class CarManager : ICarService
     {
         ICarDal _carDal;
-        IBrandDal _brandDal;
-
-        public CarManager(IBrandDal brandDal) 
-        {
-            _brandDal = brandDal;
-        }
 
         public CarManager(ICarDal carDal) 
         {
@@ -62,6 +57,11 @@ namespace Business.Concrete
         {
             _carDal.Delete(car);
             Console.WriteLine("Car deleted...");
+        }
+
+        public List<CarDetailDto> GetCarDetails()
+        {
+            return _carDal.GetCarDetails();
         }
     }
 }

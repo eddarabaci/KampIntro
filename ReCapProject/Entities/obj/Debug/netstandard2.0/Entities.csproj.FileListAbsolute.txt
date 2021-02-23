@@ -7,3 +7,6 @@ D:\Documents\VisualStudioCommunityWorkSpace\ReCapProject\Entities\bin\Debug\nets
 D:\Documents\VisualStudioCommunityWorkSpace\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.pdb
 D:\Documents\VisualStudioCommunityWorkSpace\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.dll
 D:\Documents\VisualStudioCommunityWorkSpace\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.pdb
+D:\Documents\VisualStudioCommunityWorkSpace\ReCapProject\Entities\bin\Debug\netstandard2.0\Core.dll
+D:\Documents\VisualStudioCommunityWorkSpace\ReCapProject\Entities\bin\Debug\netstandard2.0\Core.pdb
+D:\Documents\VisualStudioCommunityWorkSpace\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
