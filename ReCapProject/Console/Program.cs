@@ -13,19 +13,55 @@ namespace Console
 
             //GetByColorId();
 
-            CarManager carManager = new CarManager(new EfCarDal());
-            foreach (var car in carManager.GetCarDetails())
-            {
-                System.Console.WriteLine(car.Id +" / "+car.ColorName+" / "+car.BrandName+" / "+car.ModelYear);
-            }
+            CarAdd();
 
+            CarGetDetails();
+
+            CarGetAll();
+
+        }
+
+        private static void CarGetDetails()
+        {
+            CarManager carManager = new CarManager(new EfCarDal());
+
+            var result = carManager.GetCarDetails();
+
+            if (result.Success == true)
+            {
+                foreach (var car in result.Data)
+                {
+                    System.Console.WriteLine(car.Id + " / " + car.ColorName + " / " + car.BrandName + " / " + car.ModelYear);
+                }
+            }
+        }
+
+        private static void CarGetAll()
+        {
+            CarManager carManager = new CarManager(new EfCarDal());
+
+            var result = carManager.GetAll();
+
+            if (result.Success == true)
+            {
+                foreach (var car in result.Data)
+                {
+                    System.Console.WriteLine(car.Descriptions);
+                }
+            }
+            else
+            {
+                System.Console.WriteLine(result.Message);
+            }
         }
 
         private static void GetByColorId()
         {
             CarManager carManager = new CarManager(new EfCarDal());
 
-            foreach (var car in carManager.GetAllByColorId(2))
+            var result = carManager.GetAllByColorId(3);
+
+            foreach (var car in result.Data)
             {
                 System.Console.WriteLine(car.Descriptions);
 
@@ -36,12 +72,12 @@ namespace Console
         {
             CarManager carManager = new CarManager(new EfCarDal());
 
-            foreach (var car in carManager.GetAllByBrandId(3))
+            var result = carManager.GetAllByBrandId(1);
+            foreach (var car in result.Data )
             {
                 System.Console.WriteLine(car.Descriptions);
 
             }
-
             return carManager;
         }
 
@@ -51,13 +87,16 @@ namespace Console
 
             carManager.Delete(new Car { Id = 1004, BrandId = 2, ColorId = 3, DailyPrice = 300, ModelYear = "1990", Descriptions = "Old Mercedes" });
 
+            var result = carManager.GetByDailyPrice(100, 200);
 
-            foreach (var car in carManager.GetByDailyPrice(100, 200))
+            if (result.Success == true)
             {
-                System.Console.WriteLine(car.Descriptions);
+                foreach (var car in result.Data)
+                {
+                    System.Console.WriteLine(car.Descriptions);
 
+                }
             }
-
             return carManager;
         }
 
@@ -65,14 +104,19 @@ namespace Console
         {
             CarManager carManager = new CarManager(new EfCarDal());
 
-            carManager.Add(new Car { BrandId = 4, ColorId = 2, DailyPrice = 300, ModelYear = "2012", Descriptions = "Toyota Auris" });
+            var result = carManager.Add(new Car { BrandId = 2, ColorId = 3, DailyPrice = 0, ModelYear = "2021", Descriptions = "Mercedes Benz Full" });
 
-            foreach (var car in carManager.GetAll())
-            {
-                System.Console.WriteLine(car.Descriptions);
-            }
+            System.Console.WriteLine(result.Message);
 
             return carManager;
+
+            //var result = carManager.GetAll();
+
+            //foreach (var car in result.Data)
+            //{
+            //    System.Console.WriteLine(car.Descriptions);
+            //}
+
         }
     }
 }
