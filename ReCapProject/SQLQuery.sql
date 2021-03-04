@@ -1,5 +1,5 @@
 ﻿Create Table Cars
-( Id int Primary Key Identity(1,1),
+( Id int Primary Key Identity(1,1) ASC,
 BrandId int,
 ColorId int,
 ModelYear nvarchar(25),
@@ -19,6 +19,31 @@ BrandName nvarchar(25),
 
 )
 
+Create Table Users( 
+UserId int Primary Key Identity(1,1),
+FirstName nvarchar(40),
+LastName nvarchar(40),
+Email nvarchar(60),
+Password nvarchar(25),
+)
+
+Create Table Customers( 
+CustomerId int Primary Key Identity(1,1),
+UserId int,
+CompanyName nvarchar(40),
+Foreign key (UserId) references Users(UserId)
+)
+
+Create Table Rentals( 
+RentalId int Primary Key Identity(1,1),
+CarId int,
+CustomerId int,
+RentDate datetime,
+ReturnDate datetime NULL,
+Foreign key (CarId) references Cars(Id),
+Foreign key (CustomerId) references Customers(CustomerId)
+)
+
 Insert Into [dbo].[Cars](BrandId,ColorId,DailyPrice,ModelYear,Descriptions)
 Values
 	('1','1','150','2017','Opel Astra Otomatik'),
@@ -35,6 +60,25 @@ Values
 Insert Into [dbo].Brands(BrandName)
 Values
 	('Opel'),('Mercedes'),('Peugeot'),('Toyota');
+
+
+Insert Into [dbo].[Users](FirstName,LastName,Email,Password)
+Values
+	('Can','Pehlivan','can.pehlivan@canmail.com','can123'),
+    ('Ece','Soysal','ece.soysal@ecemail.com','ece123'),
+    ('Suna','Karakoyun','suna.karakoyun@sunamail.com','suna123');
+
+Insert Into [dbo].[Customers](UserId,CompanyName)
+Values
+	('1','Arabanız Hazır'),
+    ('2','Rent A Car'),
+    ('3','Araç Kapında');
+
+Insert Into [dbo].[Rentals](CarId,CustomerId,RentDate,ReturnDate)
+Values
+	('1','1','1/8/2021','1/12/2021'),
+    ('2','2','1/15/2021',NULL),
+    ('3','3','1/22/2021','1/27/2021');
 
 Select * from Cars
 Select * from Brands

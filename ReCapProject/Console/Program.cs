@@ -10,15 +10,54 @@ namespace Console
         static void Main(string[] args)
         {
             //GetByBrandId();
-
             //GetByColorId();
-
-            CarAdd();
-
-            CarGetDetails();
-
+            //CarAdd();
+            //CarGetDetails();
             CarGetAll();
 
+            //CustomerAdd();
+            RentalCarAdd();
+            GetRentalDetails();
+
+
+
+        }
+
+        private static void CustomerAdd()
+        {
+            CustomerManager customerManager = new CustomerManager(new EfCustomerDal());
+            var result = customerManager.Add(new Customer
+            {
+                CompanyName = "Car Renting" ,
+                UserId = 3
+            });
+            System.Console.WriteLine(result.Message);
+        }
+        private static void RentalCarAdd()
+        {
+            RentalManager rentalManager = new RentalManager(new EfRentalDal());
+            var result = rentalManager.Add(new Rental
+            {
+                CarId = 5,
+                CustomerId = 1002,
+                RentDate = DateTime.Now,
+                ReturnDate = new DateTime(2021, 01, 30)
+            });
+            System.Console.WriteLine(result.Message);
+        }
+        private static void GetRentalDetails()
+        {
+            RentalManager rentalManager = new RentalManager(new EfRentalDal());
+
+            var result = rentalManager.GetRentalDetails();
+
+            if (result.Success == true)
+            {
+                foreach (var rental in result.Data)
+                {
+                    System.Console.WriteLine("{0} / {1} / {2} / {3}", rental.BrandName, rental.ColorName, rental.ModelYear, rental.FirstName);
+                }
+            }
         }
 
         private static void CarGetDetails()
@@ -104,7 +143,7 @@ namespace Console
         {
             CarManager carManager = new CarManager(new EfCarDal());
 
-            var result = carManager.Add(new Car { BrandId = 2, ColorId = 3, DailyPrice = 0, ModelYear = "2021", Descriptions = "Mercedes Benz Full" });
+            var result = carManager.Add(new Car { BrandId = 2, ColorId = 3, DailyPrice = 1000, ModelYear = "2021", Descriptions = "Mercedes Benz Full" });
 
             System.Console.WriteLine(result.Message);
 
