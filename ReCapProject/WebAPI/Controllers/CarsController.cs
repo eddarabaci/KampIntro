@@ -46,6 +46,7 @@ namespace WebAPI.Controllers
         //Add -->  post
         //Update --> post or put
         //Delete --> post or delete
+
         [HttpPost("add")]
         public IActionResult Add(Car car) 
         {

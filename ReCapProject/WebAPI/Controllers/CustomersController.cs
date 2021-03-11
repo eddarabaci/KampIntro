@@ -44,9 +44,6 @@ namespace WebAPI.Controllers
             return BadRequest(result);
         }
 
-        //Add -->  post
-        //Update --> post or put
-        //Delete --> post or delete
         [HttpPost("add")]
         public IActionResult Add(Customer customer)
         {
