@@ -12,5 +12,6 @@ namespace Entities.DTOs
         public string ColorName { get; set; }
         public string ModelYear { get; set; }
         public string Descriptions { get; set; }
+        public decimal DailyPrice { get; set; }
     }
 }

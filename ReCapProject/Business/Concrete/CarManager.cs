@@ -20,7 +20,7 @@ namespace Business.Concrete
         }
         public IDataResult<List<Car>> GetAll()
         {
-            if (DateTime.Now.DayOfWeek == DayOfWeek.Sunday)
+            if (DateTime.Now.DayOfWeek == DayOfWeek.Monday)
             {
                 return new ErrorDataResult<List<Car>>(Messages.MaintenanceTime);
             }
