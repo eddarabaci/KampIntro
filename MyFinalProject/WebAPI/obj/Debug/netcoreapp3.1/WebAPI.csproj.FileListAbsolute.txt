@@ -66,3 +66,7 @@ D:\Documents\VisualStudioCommunityWorkSpace\MyFinalProject\WebAPI\bin\Debug\netc
 D:\Documents\VisualStudioCommunityWorkSpace\MyFinalProject\WebAPI\bin\Debug\netcoreapp3.1\DataAccess.pdb
 D:\Documents\VisualStudioCommunityWorkSpace\MyFinalProject\WebAPI\bin\Debug\netcoreapp3.1\Entities.pdb
 D:\Documents\VisualStudioCommunityWorkSpace\MyFinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+D:\Documents\VisualStudioCommunityWorkSpace\MyFinalProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\Documents\VisualStudioCommunityWorkSpace\MyFinalProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+D:\Documents\VisualStudioCommunityWorkSpace\MyFinalProject\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Documents\VisualStudioCommunityWorkSpace\MyFinalProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
