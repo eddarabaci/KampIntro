@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "cF7wYNrpp98kBhqFy3XYqj0ezDCaLsxdMKdNu8r+Yw8HVbnopenAiwOXdkRnYMXZZZMQNlCDZi2tVF8F5/uNdQ==",
+  "dgSpecHash": "i+VgNCxo30FHSueXBt+KtrhO4UEP9uZiHnPuTf1hnXyoMC53oQE857qhzPEgyNVj7V60m6ABgfcl9IQpB+ppxA==",
   "success": true,
   "projectFilePath": "D:\\Documents\\VisualStudioCommunityWorkSpace\\MyFinalProject\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Edda\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\Edda\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
     "C:\\Users\\Edda\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
     "C:\\Users\\Edda\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\Edda\\.nuget\\packages\\fluentvalidation\\9.5.3\\fluentvalidation.9.5.3.nupkg.sha512",
     "C:\\Users\\Edda\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Edda\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\Edda\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
